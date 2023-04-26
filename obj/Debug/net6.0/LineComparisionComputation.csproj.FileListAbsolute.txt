@@ -1,0 +1,15 @@
+/home/luser/pgming/LineComparisionComputation/bin/Debug/net6.0/LineComparisionComputation
+/home/luser/pgming/LineComparisionComputation/bin/Debug/net6.0/LineComparisionComputation.deps.json
+/home/luser/pgming/LineComparisionComputation/bin/Debug/net6.0/LineComparisionComputation.runtimeconfig.json
+/home/luser/pgming/LineComparisionComputation/bin/Debug/net6.0/LineComparisionComputation.dll
+/home/luser/pgming/LineComparisionComputation/bin/Debug/net6.0/ref/LineComparisionComputation.dll
+/home/luser/pgming/LineComparisionComputation/bin/Debug/net6.0/LineComparisionComputation.pdb
+/home/luser/pgming/LineComparisionComputation/obj/Debug/net6.0/LineComparisionComputation.csproj.AssemblyReference.cache
+/home/luser/pgming/LineComparisionComputation/obj/Debug/net6.0/LineComparisionComputation.GeneratedMSBuildEditorConfig.editorconfig
+/home/luser/pgming/LineComparisionComputation/obj/Debug/net6.0/LineComparisionComputation.AssemblyInfoInputs.cache
+/home/luser/pgming/LineComparisionComputation/obj/Debug/net6.0/LineComparisionComputation.AssemblyInfo.cs
+/home/luser/pgming/LineComparisionComputation/obj/Debug/net6.0/LineComparisionComputation.csproj.CoreCompileInputs.cache
+/home/luser/pgming/LineComparisionComputation/obj/Debug/net6.0/LineComparisionComputation.dll
+/home/luser/pgming/LineComparisionComputation/obj/Debug/net6.0/ref/LineComparisionComputation.dll
+/home/luser/pgming/LineComparisionComputation/obj/Debug/net6.0/LineComparisionComputation.pdb
+/home/luser/pgming/LineComparisionComputation/obj/Debug/net6.0/LineComparisionComputation.genruntimeconfig.cache
